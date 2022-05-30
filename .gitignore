@@ -1,2 +1,6 @@
-# Project exclude paths
-/cmake-build-release/
+cmake-build-release/CMakeFiles
+cmake-build-release/Testing
+cmake-build-release/cmake_install.cmake
+cmake-build-release/CMakeCache.txt
+cmake-build-release/Makefile
+cmake-build-release/VolgaIT.cbp
