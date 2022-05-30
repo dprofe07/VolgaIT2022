@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="VolgaIT"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="X:/Langs/c++/proj/CLion/VolgaIT/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Qt/installer_Qt5.12.11/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;X:/Langs/c++/proj/CLion/VolgaIT/cmake-build-release/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Qt/installer_Qt5.12.11/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;X:/Langs/c++/proj/CLion/VolgaIT/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/installer_Qt5.12.11/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;X:/Langs/c++/proj/CLion/VolgaIT/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/installer_Qt5.12.11/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;X:/Langs/c++/proj/CLion/VolgaIT/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="VolgaIT">
+				<Option output="X:/Langs/c++/proj/CLion/VolgaIT/cmake-build-release/VolgaIT.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="X:/Langs/c++/proj/CLion/VolgaIT/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/installer_Qt5.12.11/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/installer_Qt5.12.11/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Qt/installer_Qt5.12.11/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/installer_Qt5.12.11/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/installer_Qt5.12.11/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/installer_Qt5.12.11/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/installer_Qt5.12.11/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;X:/Langs/c++/proj/CLion/VolgaIT/cmake-build-release/Makefile&quot;  VERBOSE=1 VolgaIT"/>
+					<CompileFile command="C:/Qt/installer_Qt5.12.11/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;X:/Langs/c++/proj/CLion/VolgaIT/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/installer_Qt5.12.11/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;X:/Langs/c++/proj/CLion/VolgaIT/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/installer_Qt5.12.11/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;X:/Langs/c++/proj/CLion/VolgaIT/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="VolgaIT/fast">
+				<Option output="X:/Langs/c++/proj/CLion/VolgaIT/cmake-build-release/VolgaIT.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="X:/Langs/c++/proj/CLion/VolgaIT/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/installer_Qt5.12.11/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/installer_Qt5.12.11/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Qt/installer_Qt5.12.11/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/installer_Qt5.12.11/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/installer_Qt5.12.11/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/installer_Qt5.12.11/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/installer_Qt5.12.11/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;X:/Langs/c++/proj/CLion/VolgaIT/cmake-build-release/Makefile&quot;  VERBOSE=1 VolgaIT/fast"/>
+					<CompileFile command="C:/Qt/installer_Qt5.12.11/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;X:/Langs/c++/proj/CLion/VolgaIT/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/installer_Qt5.12.11/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;X:/Langs/c++/proj/CLion/VolgaIT/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/installer_Qt5.12.11/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;X:/Langs/c++/proj/CLion/VolgaIT/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="X:/Langs/c++/proj/CLion/VolgaIT/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Qt/installer_Qt5.12.11/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;X:/Langs/c++/proj/CLion/VolgaIT/cmake-build-release/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Qt/installer_Qt5.12.11/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;X:/Langs/c++/proj/CLion/VolgaIT/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/installer_Qt5.12.11/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;X:/Langs/c++/proj/CLion/VolgaIT/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/installer_Qt5.12.11/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;X:/Langs/c++/proj/CLion/VolgaIT/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="X:/Langs/c++/proj/CLion/VolgaIT/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Qt/installer_Qt5.12.11/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;X:/Langs/c++/proj/CLion/VolgaIT/cmake-build-release/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Qt/installer_Qt5.12.11/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;X:/Langs/c++/proj/CLion/VolgaIT/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/installer_Qt5.12.11/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;X:/Langs/c++/proj/CLion/VolgaIT/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/installer_Qt5.12.11/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;X:/Langs/c++/proj/CLion/VolgaIT/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="X:/Langs/c++/proj/CLion/VolgaIT/fairy_tail.cpp">
+			<Option target="VolgaIT"/>
+		</Unit>
+		<Unit filename="X:/Langs/c++/proj/CLion/VolgaIT/fairy_tail.hpp">
+			<Option target="VolgaIT"/>
+		</Unit>
+		<Unit filename="X:/Langs/c++/proj/CLion/VolgaIT/main.cpp">
+			<Option target="VolgaIT"/>
+		</Unit>
+		<Unit filename="X:/Langs/c++/proj/CLion/VolgaIT/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

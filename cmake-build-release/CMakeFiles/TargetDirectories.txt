@@ -1,0 +1,3 @@
+X:/Langs/c++/proj/CLion/VolgaIT/cmake-build-release/CMakeFiles/VolgaIT.dir
+X:/Langs/c++/proj/CLion/VolgaIT/cmake-build-release/CMakeFiles/edit_cache.dir
+X:/Langs/c++/proj/CLion/VolgaIT/cmake-build-release/CMakeFiles/rebuild_cache.dir

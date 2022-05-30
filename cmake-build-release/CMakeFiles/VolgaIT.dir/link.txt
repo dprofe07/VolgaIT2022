@@ -1,0 +1,3 @@
+C:\Users\dima\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\211.7628.27\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\VolgaIT.dir/objects.a
+C:\Qt\installer_Qt5.12.11\Tools\mingw730_32\bin\ar.exe cr CMakeFiles\VolgaIT.dir/objects.a @CMakeFiles\VolgaIT.dir\objects1.rsp
+C:\Qt\installer_Qt5.12.11\Tools\mingw730_32\bin\g++.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\VolgaIT.dir/objects.a -Wl,--no-whole-archive -o VolgaIT.exe -Wl,--out-implib,libVolgaIT.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\VolgaIT.dir\linklibs.rsp
